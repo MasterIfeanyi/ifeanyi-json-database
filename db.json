@@ -1,22 +1,3 @@
 {
-  "users": [
-    {
-      "id": 1,
-      "firstname": "Babangida",
-      "lastname": "Muhammed",
-      "address": "123, Washington boulevard, White House"
-    },
-    {
-      "firstname": "Monday",
-      "lastname": "Ozonuwe",
-      "address": "13 major. olatuga street imude ojo",
-      "id": 2
-    },
-    {
-      "firstname": "Sunday",
-      "lastname": "Mbah",
-      "address": "13 major. olatuga street imude ojo",
-      "id": 4
-    }
-  ]
+  "users": [ ]
 }
