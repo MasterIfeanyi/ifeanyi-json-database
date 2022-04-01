@@ -1,26 +1,3 @@
 {
-  "users": [ 
-    {
-            "id": 3,
-            "name": "Johnny",
-            "email": "johnny@gmail.com",
-            "profile": "https://source.unsplash.com/random",
-            "status": "active",
-            "role": "member",
-            "firstname": "Johnny",
-            "lastname": "Sinclair",
-            "address": "123, Washington boulevard, White House"
-        },
-        {
-            "id": 5,
-            "name": "Sonny",
-            "email": "sonny@gmail.com",
-            "profile": "https://source.unsplash.com/random",
-            "status": "inactive",
-            "role": "member",
-            "firstname": "Sonny",
-            "lastname": "Cash",
-            "address": "123, Washington boulevard, White House"
-        }
-  ]
+  "users": [ ]
 }
