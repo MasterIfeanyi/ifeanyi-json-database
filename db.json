@@ -1,3 +1,10 @@
 {
-  "users": [ ]
+  "users": [
+      {
+      "firstname": "Adebayo",
+      "lastname": "Makele",
+      "address": "13 major. olatuga street imude ojo",
+      "id": 4
+    }
+   ]
 }
